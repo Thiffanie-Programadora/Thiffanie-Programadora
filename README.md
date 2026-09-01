@@ -11,4 +11,5 @@ Holaaaa soy THIFANIE 👋
 * **GitHub:** [https://github.com/Thiffanie-Programadora]
 * **Correo:** tifannyfwd@gamil.com
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Thiffanie-Programadora&theme=sakura)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Thiffanie-Programadora&theme=midnight_sakura)
+
