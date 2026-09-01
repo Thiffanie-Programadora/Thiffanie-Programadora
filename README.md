@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Thiffanie-Programadora/Thiffanie-Programadora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Holaaaa soy THIFANIE 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Bienvenid@ a mi perfil de GitHub! Soy estudiante de programación y creadora de contenido, enfocada en el desarrollo web front-end y back-end. Me apasiona crear experiencias digitales visuales, funcionales e intuitivas.
+
+
+
+📬 Contacto & Redes
+
+* **GitHub:** [https://github.com/Thiffanie-Programadora]
+* **Correo:** tifannyfwd@gamil.com
+
+
